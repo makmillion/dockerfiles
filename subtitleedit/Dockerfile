@@ -1,5 +1,5 @@
 FROM lsiobase/guacgui
-LABEL maintainer="fresta"
+LABEL maintainer="makmillion"
 
 ENV APP_NAME="subtitleedit"
 
